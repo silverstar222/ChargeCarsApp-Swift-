@@ -1,0 +1,36 @@
+PODS:
+  - AEXML (4.1.0)
+  - Alamofire (4.5.0)
+  - Crashlytics (3.8.4):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.11)
+  - GoogleMaps (2.3.1):
+    - GoogleMaps/Maps (= 2.3.1)
+  - GoogleMaps/Base (2.3.1)
+  - GoogleMaps/Maps (2.3.1):
+    - GoogleMaps/Base
+  - GooglePlaces (2.3.1):
+    - GoogleMaps/Base (= 2.3.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire (~> 4.4)
+  - Crashlytics
+  - Fabric
+  - GoogleMaps
+  - GooglePlaces
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AEXML: 647fbb051280f3fb38a1a7caa62b0344055a851c
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Crashlytics: 79e236942ca1e7fc641df1feb9a275360a78ab6a
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  GoogleMaps: c66a71058b9b1294bcdd5463a68e357fa50c079f
+  GooglePlaces: 4a7b22debfa1af65017b82943431822607e45201
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 365bc4c98707d8c96667e1bddae3d945e82ee131
+
+COCOAPODS: 1.2.1
